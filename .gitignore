@@ -1,0 +1,13 @@
+# No publicar nunca - gobierno / sensible
+private/
+*.png
+!diagrams/architecture_anon.png
+.env
+*.pdf
+*.xlsx
+*.csv
+*.log
+# Duplicados del sistema
+*_1.md
+*_1_1.md
+*_2.md
