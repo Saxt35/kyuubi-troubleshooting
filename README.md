@@ -42,7 +42,7 @@ El repositorio documenta guías de diagnóstico, recuperación y prevención, in
 
 ## Relación con otros repositorios
 
-- Repo hermano: [**ai-knowledge-platform-graphrag**](https://github.com/Saxt35/ai-knowledge-platform-graphrag) (GraphRAG faithfulness `0.91`)
+- Repo hermano: [**ai-knowledge-platform-graphrag**](https://github.com/Saxt35/ai-knowledge-platform-graphrag) (métrica de *faithfulness* reportada: `0.91`, usada para evaluar consistencia entre respuesta y evidencia recuperada)
 
 ## Anonimización
 
