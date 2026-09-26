@@ -38,7 +38,7 @@ El repositorio documenta guías de diagnóstico, recuperación y prevención, in
 6. Validación de conectividad Airflow + JDBC (`jdbc:hive2://<HOST>:<PORT>`)
 7. Runbook preventivo
 8. MDM Governance
-9.–17. Procedimientos complementarios de operación, monitoreo, escalamiento y remediación para el mismo stack
+9–17. Procedimientos complementarios de operación, monitoreo, escalamiento y remediación para el mismo stack
 
 ## Relación con otros repositorios
 
